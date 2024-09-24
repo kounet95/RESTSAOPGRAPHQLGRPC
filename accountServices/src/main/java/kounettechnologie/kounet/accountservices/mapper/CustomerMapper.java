@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class CustomerMapper {
 
-    
+
     private ModelMapper modelMapper=new ModelMapper();
     public Customer fromSoapCustomer(kounettechnologie.kounet.multiconnexions.web.Customer soapCustomer){
         return modelMapper.map(soapCustomer,Customer.class);
