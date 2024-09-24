@@ -1,5 +1,6 @@
 package kounettechnologie.kounet;
 
+import kounettechnologie.kounet.multiconnexions.MulticonnexionsApplication;
 import kounettechnologie.kounet.multiconnexions.entity.Customer;
 import kounettechnologie.kounet.multiconnexions.repository.CustomerRepository;
 import org.springframework.boot.CommandLineRunner;
@@ -8,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
-public class MulticonnexionsApplication {
+public class RajoutApplication {
 
 
     public static void main(String[] args) {
