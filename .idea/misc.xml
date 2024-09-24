@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/accountService/pom.xml" />
         <option value="$PROJECT_DIR$/accountServices/pom.xml" />
         <option value="$PROJECT_DIR$/multiconnexions/pom.xml" />
+        <option value="$PROJECT_DIR$/rajout/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
