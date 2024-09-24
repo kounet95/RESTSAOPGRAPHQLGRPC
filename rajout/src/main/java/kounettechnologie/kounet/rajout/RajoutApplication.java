@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class RajoutApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(RajoutApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(RajoutApplication.class, args);
+    }
 
 }
